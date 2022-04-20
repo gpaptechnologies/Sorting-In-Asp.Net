@@ -1,0 +1,6 @@
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\bin\Sorting.dll.config
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\bin\Sorting.dll
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\bin\Sorting.pdb
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\obj\Debug\Sorting.dll
+C:\Users\Training\Documents\Training Projects\Sorting\Sorting\obj\Debug\Sorting.pdb
